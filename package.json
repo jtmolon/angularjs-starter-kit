@@ -1,0 +1,25 @@
+{
+  "name": "angularjs-starter-kit",
+  "version": "1.0.0",
+  "description": "Starter boilerplate for angularjs projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jtmolon/angularjs-starter-kit.git"
+  },
+  "keywords": [
+    "angularjs"
+  ],
+  "author": "Joao Molon",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/jtmolon/angularjs-starter-kit/issues"
+  },
+  "homepage": "https://github.com/jtmolon/angularjs-starter-kit#readme",
+  "dependencies": {
+    "angular": "^1.7.2"
+  }
+}
